@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef7c8453f0167ad4391c856243a0beea, type: 3}
+  m_Name: Enemy_Slime
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDefinition
+  EnemyName: Slime
+  EnemySprite: {fileID: 5844237066884170325, guid: 7bbb0013d81094747b7f00245dbc5c96, type: 3}
+  BaseHP: 50
+  BaseAttack: 8
+  BaseSpeed: 3
+  HPScaling: 1.1
+  AtkScaling: 1.05
+  Abilities: []
+  AbilityReplacesNormalHit: 0

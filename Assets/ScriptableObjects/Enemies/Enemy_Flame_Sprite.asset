@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef7c8453f0167ad4391c856243a0beea, type: 3}
+  m_Name: Enemy_Flame_Sprite
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDefinition
+  EnemyName: Flame Sprite
+  EnemySprite: {fileID: 3659001142913931265, guid: e4980177dd51bc64fb56ce6c83a72024, type: 3}
+  BaseHP: 40
+  BaseAttack: 3
+  BaseSpeed: 1
+  HPScaling: 1.1
+  AtkScaling: 1.05
+  Abilities: []
+  AbilityReplacesNormalHit: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4fde682e0f6c1a45909dfc942e9122d, type: 3}
+  m_Name: Card_Burn_05
+  m_EditorClassIdentifier: Assembly-CSharp::AbilityCardData
+  CardId: card_burn_05
+  CardName: Asura Flame
+  CardArtwork: {fileID: 0}
+  Rarity: 4
+  GrantedEffect: 1
+  StarMultipliers:
+  - 2.2
+  - 2.5
+  - 3
+  - 3.5
+  - 5
+  CopiesNeeded: 0000000002000000040000000800000010000000
+  Description: An Everlasting flame that burns the very existence of all beings it
+    reaches.

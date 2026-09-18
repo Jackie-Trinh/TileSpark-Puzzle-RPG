@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c91e8fb8aa8ce34bb672f63dfb2e2ff, type: 3}
+  m_Name: Equip_Helmet_01
+  m_EditorClassIdentifier: Assembly-CSharp::EquipmentDefinition
+  ItemId: equip_helmet_01
+  ItemName: Leather Cap
+  ItemIcon: {fileID: 7482667652216324306, guid: a947a5670c9e00b44a28ce84bec2f01f, type: 3}
+  Slot: 0
+  Rarity: 0
+  BonusHP: 50
+  BonusDamage: 0
+  BonusSpeed: 0
+  BonusDefense: 5
+  BonusLuck: 0
+  PassiveEffect: 0
+  SetId: 1
+  Description: A leather cap made of cow hide.

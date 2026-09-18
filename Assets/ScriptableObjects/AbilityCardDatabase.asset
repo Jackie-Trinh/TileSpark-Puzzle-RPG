@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: AbilityCardDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::AbilityCardDatabase
+  Cards:
+  - {fileID: 11400000, guid: fdddd5bff34eec842acf64496fce9d5b, type: 2}
+  - {fileID: 11400000, guid: 908688d1eb18ca148b2abf1e4b0923ce, type: 2}
+  - {fileID: 11400000, guid: fff352e7b6274eb42a39262c21e17136, type: 2}
+  - {fileID: 11400000, guid: 0d5d6ae6f6139204191698307d5443cf, type: 2}
+  - {fileID: 11400000, guid: 6a317e9e7cef10e41892cb1cf6fa8a7d, type: 2}
