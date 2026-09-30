@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: ca28ff140619931489b964fc0b9598fe, type: 3}
   m_Name: AbilityCardDatabase
   m_EditorClassIdentifier: Assembly-CSharp::AbilityCardDatabase
   Cards:
@@ -18,3 +18,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fff352e7b6274eb42a39262c21e17136, type: 2}
   - {fileID: 11400000, guid: 0d5d6ae6f6139204191698307d5443cf, type: 2}
   - {fileID: 11400000, guid: 6a317e9e7cef10e41892cb1cf6fa8a7d, type: 2}
+  - {fileID: 11400000, guid: 5c62a353444beec43a5f82aa9f9a52e9, type: 2}
+  - {fileID: 11400000, guid: bdce03a2a262d954a8713685c91f2cec, type: 2}
+  - {fileID: 11400000, guid: 816876a429080dc438b64c16ff5d300f, type: 2}
+  - {fileID: 11400000, guid: 815e27696ceb1c348adf6f69bceaf4ca, type: 2}
+  - {fileID: 11400000, guid: 5e81311dec6014842b8731b894aeae27, type: 2}
+  - {fileID: 11400000, guid: 25fa5d07248f8344790fb207e8bc5d16, type: 2}
+  - {fileID: 11400000, guid: 044953c3be23eeb45a114a2853c87735, type: 2}
+  - {fileID: 11400000, guid: 430505a83630c904ea72560010d8556e, type: 2}
+  - {fileID: 11400000, guid: 21eb20ec4cb0a474a85a1c64ededefdd, type: 2}
+  - {fileID: 11400000, guid: bd27e62663e7bf9418fbd9b475af9cca, type: 2}

@@ -7529,7 +7529,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1769864030}
   m_HandleRect: {fileID: 1769864029}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -9567,7 +9567,7 @@ MonoBehaviour:
   PowersBlockRowPrefab: {fileID: 2298410896515968104}
   CardTilePrefab: {fileID: 2484816673989381948}
   BlockDefinitions: []
-  AbilityCardDB: {fileID: 0}
+  AbilityCardDB: {fileID: 11400000, guid: 118156d30b36c4a49b3e4e4ea2fe4162, type: 2}
   CloseButton: {fileID: 1355112027}
 --- !u!1 &2100142344
 GameObject:
